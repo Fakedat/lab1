@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rolldice</string>
+    <string name="m_y_t_nh_b_t_i">Máy tính bỏ túi</string>
+    <string name="k_t_qu">kết quả..</string>
+    <string name="c_ng">Cộng</string>
+    <string name="tr">Trừ</string>
+    <string name="nh_n">Nhân</string>
+    <string name="chia">chia</string>
+    <string name="nh_p_v_o_s_th_nh_t">Nhập vào số thứ nhất</string>
+    <string name="nh_p_v_o_s_th_hai">Nhập vào số thứ hai</string>
+</resources>
